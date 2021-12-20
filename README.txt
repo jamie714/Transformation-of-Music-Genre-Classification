@@ -1,0 +1,1 @@
+Code uploaded directly from Jupyter Notebook. Code imports libraries, reads our data files, lyrics_old.csv and lyrics_new.csv from the same directory and generates lists of each attribute of each song. Code contains two classifiers: logistic regression and K-means. Code also prints some metrics about each classifier's performance. 
