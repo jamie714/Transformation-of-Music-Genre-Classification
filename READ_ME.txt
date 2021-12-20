@@ -1,1 +1,0 @@
-Note: I could not finish my parse method. I create the CYK table and fill it in, but am unable to read it and thus parse. the method returns an empty list, and does not create any trees. I did create a CNF conversion method. I therefore do not convert the tree from CNF either.
